@@ -6,3 +6,6 @@ This is the repository for our midterm project in MMED1054 Multimedia Authoring.
 Welcome to our Midterm Project! Today we're here to settle a timeless debate: Anime versus Manga. 
 
 Please check our websites.
+
+# Credits
+Officially Published by: Dixie Marie Laput and Tanya Mae Huertas
