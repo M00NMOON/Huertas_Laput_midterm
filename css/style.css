@@ -2,8 +2,29 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    text-align: center;
 }
 
-.main-container {
- margin-left:5%;   
+.container {
+ margin-left:2%;   
+}
+
+header{
+    margin-left: 2%;
+}
+
+header h1{
+
+}
+header h3{
+margin-top:.7%;
+}
+header p{
+
+    margin-top:.7%;
+}
+
+.tanya-text h2{
+margin-top: 2%;
+
 }
